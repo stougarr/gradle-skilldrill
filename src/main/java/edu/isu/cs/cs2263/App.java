@@ -3,6 +3,8 @@
  */
 package edu.isu.cs.cs2263;
 
+import javafx.application.Application;
+
 public class App {
     public String getGreeting() {
         return "Hello world.";
